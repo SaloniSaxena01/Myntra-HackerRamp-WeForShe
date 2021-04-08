@@ -11,3 +11,18 @@ We are offering a secure solution where a user can capture his/her entire body p
 •	Images of their full body
 •	Height and Leg Length in cm
 
+# Instructions for uploading Images
+•	BACKGROUND :
+Background should be a plain. It should not contain any switches, sofa, wall papers or any other objects.
+
+
+CORRECT 
+
+![image](https://user-images.githubusercontent.com/60663789/114011695-28f1b900-9883-11eb-8434-22b1d7c0500c.png)           
+
+WRONG
+
+![image](https://user-images.githubusercontent.com/60663789/114011883-5b031b00-9883-11eb-9251-191f9024b1ff.png)
+
+
+                                                                                             
