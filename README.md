@@ -26,8 +26,11 @@ WRONG
 
 WARNING: The colour of your outfit should not be similar to that of your background.
 
+
 •	POSE :
 Users have to provide the photos in the following given poses.
+
+
 ![image](https://user-images.githubusercontent.com/60663789/114013812-97377b00-9885-11eb-8ea5-cd28a8e07695.png)  ![pose2](https://user-images.githubusercontent.com/60663789/114013925-b2a28600-9885-11eb-8b10-f9fef2037344.PNG) ![image](https://user-images.githubusercontent.com/60663789/114013987-c5b55600-9885-11eb-8dc9-ec82fd14067f.png)
 
 
