@@ -38,5 +38,13 @@ Users have to provide the photos in the following given poses.
 NOTE: Wear tight fitted clothes for accurate measurement
 
 
+•	Distance :
+Stand at a distance from the camera such that it covers your whole body(head to toe),  also make sure that no extra space(floor) or object is covered in the frame.
+
+![dis](https://user-images.githubusercontent.com/60663789/114014680-7d4a6800-9886-11eb-887b-bafde76df67a.jpg)
+
+
+
+
 
                                                                                              
