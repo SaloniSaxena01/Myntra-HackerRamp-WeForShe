@@ -74,14 +74,20 @@ Stand at a distance from the camera such that it covers your whole body(head to 
 #Solution
 
 1.Taking input from the user : In this step, the users will be providing their full body images in two poses (Front and Side).
+
 2.Image Segmentation: Detecting human body and forming a rectangle around the picture ( Using an Open CV function).
+
 3.Image Cropping and Resizing: Cropping the image to separate it from its background and Resizing it in a particular format.
+
 4.Detection of Body Parts: Flood-Fill Algorithm of Computer Graphics is used in this phase to detect various body parts of a person.
+
 5.Measurement of Body Parts:
+
 
 	1. Pixel Counts: The concept of Head to Height Ratio(1/7.5) is used to calculate the pixel counts of the detected body parts in the previous step.
 
  	2. Actual Measurement: To find the relation between the pixels and the exact value, Linear Regression is used.
+
 
 6.Size Estimation: We used a general measurement chart for our reference and converted it into a dataset to compare our results with an actual reference and thus giving out the best size as an output.
 
