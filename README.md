@@ -71,7 +71,7 @@ Stand at a distance from the camera such that it covers your whole body(head to 
 
 
 
-#Solution
+# Solution
 
 1.Taking input from the user : In this step, the users will be providing their full body images in two poses (Front and Side).
 
