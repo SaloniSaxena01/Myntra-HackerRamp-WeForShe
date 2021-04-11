@@ -16,11 +16,11 @@ The customer can also virtually try on the clothes to decide whether it looks go
 
 # Installation
 
-!pip install opencv-python==4.4.0.40
+> !pip install opencv-python==4.4.0.40
 
-!pip install scikit-image
+> !pip install scikit-image
 
-!pip install pixellib
+> !pip install pixellib
 
 
 # Requirement from the User
