@@ -57,7 +57,7 @@ NOTE: Wear tight fitted clothes for accurate measurement
 •	Distance :
 Stand at a distance from the camera such that it covers your whole body(head to toe),  also make sure that no extra space(floor) or object is covered in the frame.
 
-#Technologies
+# Technologies
 
 > Python Programming Language
 
