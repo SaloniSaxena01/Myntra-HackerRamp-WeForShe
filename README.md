@@ -7,6 +7,12 @@ Almost everyone wishes to try items before they buy them but are unable to do so
 # Solution
 We are offering a secure solution where a user can capture his/her entire body picture and upload it on Myntra app. The system will scan the body size and suggest the best fit of a particular clothing that the customer has selected. The customer can also virtually try on the clothes to decide whether it looks good on their specific body type or not. This will increase the customer satisfaction and thus the sales of the Myntra App.
 
+#Installation
+!pip install opencv-python==4.4.0.40
+!pip install scikit-image
+!pip install pixellib
+
+
 # Requirement from the User
 •	Images of their full body
 •	Height and Leg Length in cm
@@ -41,7 +47,38 @@ NOTE: Wear tight fitted clothes for accurate measurement
 •	Distance :
 Stand at a distance from the camera such that it covers your whole body(head to toe),  also make sure that no extra space(floor) or object is covered in the frame.
 
-![dis](https://user-images.githubusercontent.com/60663789/114014680-7d4a6800-9886-11eb-887b-bafde76df67a.jpg)
+#Technologies
+
+> Python Programming Language
+
+> Google Collab: For writing and executing our code.
+
+> ML library stack(pandas, numpy, matplotlib, scikit learn etc)
+
+> Open CV: For Image Processing and Editing
+
+> Dataset: Pre-Trained Model (mask_rcnn_coco) which is a data model of common objects through pixellib package.
+
+
+
+#Solution
+
+1.Taking input from the user : In this step, the users will be providing their full body images in two poses (Front and Side).
+2.Image Segmentation: Detecting human body and forming a rectangle around the picture ( Using an Open CV function).
+3.Image Cropping and Resizing: Cropping the image to separate it from its background and Resizing it in a particular format.
+4.Detection of Body Parts: Flood-Fill Algorithm of Computer Graphics is used in this phase to detect various body parts of a person.
+5.Measurement of Body Parts:
+
+	1. Pixel Counts: The concept of Head to Height Ratio(1/7.5) is used to calculate the pixel counts of the detected body parts in the previous step.
+
+ 	2. Actual Measurement: To find the relation between the pixels and the exact value, Linear Regression is used.
+
+6.Size Estimation: We used a general measurement chart for our reference and converted it into a dataset to compare our results with an actual reference and thus giving out the best size as an output.
+
+
+
+
+
 
 
 
