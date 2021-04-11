@@ -9,14 +9,17 @@ We are offering a secure solution where a user can capture his/her entire body p
 
 
 FUTURE GOAL
+
 The customer can also virtually try on the clothes to decide whether it looks good on their specific body type or not. This will increase the customer satisfaction and thus the sales of the Myntra App.
 
 
 
-#Installation
+# Installation
 
 !pip install opencv-python==4.4.0.40
+
 !pip install scikit-image
+
 !pip install pixellib
 
 
