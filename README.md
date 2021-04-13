@@ -17,6 +17,8 @@ OUTPUT: Based on the above calculated sizes, the result comes out to be S,M,L,XL
 
 NOTE: 
 > If provided with another dataset, shoulder size can also be calculated by the code.
+
+
 > By Waist Size and Leg Length, length of jeans and Trousers can also be calculated.
 
 
