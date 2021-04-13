@@ -7,6 +7,17 @@ Almost everyone wishes to try items before they buy them but are unable to do so
 # Proposed Idea
 We are offering a secure solution where a user can capture his/her entire body picture and upload it on Myntra app. The system will scan the body size and suggest the best fit of a particular clothing that the customer has selected.
 
+Size Calculated:
+
+1. Chest Size
+2. Waist Size
+3. Hip Size
+
+OUTPUT: Based on the above calculated sizes, the result comes out to be S,M,L,XL,XXL....
+
+NOTE: If provided with another dataset, Shoulder size can also be calculated by the code.
+> By Waist Size and Leg Length, length of jeans and Trousers can also be calculated.
+
 
 FUTURE GOAL
 
